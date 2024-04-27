@@ -6,3 +6,9 @@ go-dvpn
 ## Supported Dockovpn versions
 
 Dockovpn 1.13.0 and newer.
+
+## Adding as a dependency
+
+```shell
+go get github.com/dockovpn/go-dvpn
+```
