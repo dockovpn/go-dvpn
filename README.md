@@ -7,7 +7,7 @@ go-dvpn
 
 | go-dvpn | Dockovpn |
 | :-----: | :------: |
-| v0.1.0 | >= v1.13.0 |
+| v0.1.x | >= v1.13.0 |
 
 
 ## Adding as a dependency
