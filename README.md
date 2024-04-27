@@ -3,9 +3,12 @@ go-dvpn
 
 *go-dvpn* is lightweight go wrapper for Dockovpn container. It provides API for Dockovpn container discovery and commands exposed by container.
 
-## Supported Dockovpn versions
+## Compatibility matrix
 
-Dockovpn 1.13.0 and newer.
+| go-dvpn | Dockovpn |
+| :-----: | :------: |
+| v0.1.0 | >= v1.13.0 |
+
 
 ## Adding as a dependency
 
